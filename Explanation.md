@@ -1,8 +1,4 @@
-# Login Page Implementation Explanation
 
-## Purpose
-
-This document reverse-engineers the current combined patient and doctor login implementation.
 
 It explains:
 
