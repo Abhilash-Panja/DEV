@@ -1,12 +1,3 @@
-Your `MockAuthService` is a good example of an Angular service. It is responsible for shared authentication state and user-related operations, while components are responsible mainly for displaying the UI.
-
-Save the following as:
-
-```text
-04-angular-services-and-state-management.md
-```
-
-```md
 # 4. Angular Services and State Management
 
 ## What Is an Angular Service?
@@ -1228,5 +1219,4 @@ Components handle the screen.
 Services handle shared logic and state.
 Models define the data structure.
 Router handles navigation.
-```
 ```
